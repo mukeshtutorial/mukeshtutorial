@@ -9,7 +9,7 @@
 - 🌱 I’m Currently learning Mern Stack & DSA
 - 📫 How to reach me: **[pandeymukeshbbu@gmail.com](mailto:mukeshpandey821108@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Porfolio - **[Mukesh.P](https://pandeymukesh.netlify.app/)**
+- 🌐 Porfolio - **[Mukesh.Pandey](https://mukeshtutorial.github.io/New-Portfolio/)**
 - ⚡ Fun fact: I'm a digital creator on and Facebook & Instagram.
 
 <br/>
